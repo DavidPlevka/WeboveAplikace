@@ -1,0 +1,16 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+  margin-top: 20px;
+}
+
+p{
+	color: aliceBlue;
+	margin-left: 15px;
+}
+a{
+	color: red;
+}
